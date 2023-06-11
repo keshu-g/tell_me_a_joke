@@ -29,6 +29,7 @@ h1 {
 
 .joke {
     background-color: #333;
+    margin: 0 20px 0 20px;
     font-size: 1200%;
     padding: 20px;
     border-radius: 8px;
