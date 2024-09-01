@@ -1,4 +1,4 @@
-import data from './reddit_jokes.json' assert{ type: "json"};
+import data from './reddit_jokes.json';
 // console.log(data.length)
 // document.getElementsByTagName("h2")[0].innerHTML = "hello "
 window.make_joke = () => {
